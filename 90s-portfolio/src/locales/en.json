@@ -7,8 +7,9 @@
     "email": "fpasache1995@gmail.com",
     "welcome": "Welcome to my portfolio!",
     "about": "About Me",
+    "aboutDetail":"Hello, my name is Felipe Pasache Rivas. I am a fullstack developer with a focus on backend development. I have experience with legacy application migrations and poorly implemented applications. I have experience providing application support; I worked resolving issues in banking projects, which has given me a keen eye for finding errors. As you can see, I have significant experience in corporate environments. Personally, I use Linux for development because I find resource and package management within that environment more convenient. If your company requires Windows, there's no problem; I can set up a Windows VM and continue working without issues. I have experience as a technical leader managing projects in both private and public environments. Additionally, I am very interested in learning about lower-level programming. I'm not an expert, but I enjoy exploring compilers and recompilers. The last thing I was doing was figuring out how to recompile an N64 game in C++ to then convert it into a native PC game. I really like retro things, which is why I decided to use that style for this portfolio.",
     "projects": "Projects",
     "skills": "Skills",
-    "skillsDetails": "Backend: .NET Core, C#, Java | Frontend: Angular, React | Databases: SQL Server, Oracle | Cloud: Azure"
+    "skillsDetails": "Backend: .NET | .NET Core | .NET Framework | LINQ | Web APIs | ASP.NET | ASP.NET MVC | VB.NET | SQL Server (strongest) | PostgreSQL | Oracle | MySQL | Python | Node.js | Java Spring Boot | PySpark | IIS Servers | Docker | Containers. Frontend: Vanilla.js | jQuery | Vue.js | React | Angular. DevOps & Tools: SSIS Integration Services | Azure DevOps | Jira | Jenkins. Operating Systems: Linux (preferred) | Windows (VM)."
   }
 }

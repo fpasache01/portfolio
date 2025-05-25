@@ -7,8 +7,9 @@
     "email": "fpasache1995@gmail.com",
     "welcome": "¡Bienvenido a mi portafolio!",
     "about": "Sobre Mí",
+    "aboutDetail":"Hola mi nombre es Felipe Pasache Rivas, soy un desarrollador fullstack con inclinación al desarrollo backend. Tengo experiencia en migraciones de aplicaciones legado, aplicaciones mal realizadas. Tengo experiencia dando soporte a aplicaciones, trabajé resolviendo issues en proyectos bancarios por lo que tengo buen ojo buscando errores. Como verán, tengo mucha experiencia en entornos corporativos. Personalmente uso Linux para desarrollar porque se me hace más cómodo la gestión de recursos y paquetes dentro de ese entorno. Si en tu compañía requieren Windows no hay problema, puedo levantar una vm con Windows y seguir trabajando sin problemas. Tengo experiencia siendo líder técnico gestionando proyectos en entornos privados y publicos. Adicionalmente a eso me gusta mucho conocer y saber de cosas con respecto a la programación de mas bajo nivel, no soy un experto pero me gusta indagar sobre compiladores y recompiladores, lo ultimo que estuve haciendo fue averiguar como recompilar un juego de n64 en c++ para luego pasarlo a un juego nativo de PC me gusta mucho lo retro y es por eso que en este portafolio decidi usar ese estilo.",
     "projects": "Proyectos",
     "skills": "Habilidades",
-    "skillsDetails": "Backend: .NET Core, C#, Java | Frontend: Angular, React | Bases de Datos: SQL Server, Oracle | Nube: Azure"
+    "skillsDetails": "Backend: .NET | .NET Core | .NET Framework | LINQ | Web APIs | ASP.NET | ASP.NET MVC | VB.NET | SQL Server (fuerte) | PostgreSQL | Oracle | MySQL | Python | Node.js | Java Spring Boot | PySpark | IIS Servers | Docker | Contenedores. Frontend: Vanilla.js | jQuery | Vue.js | React | Angular. DevOps y Herramientas: SSIS Integration Services | Azure DevOps | Jira | Jenkins. Sistemas Operativos: Linux (preferido) | Windows (VM)."
   }
 }

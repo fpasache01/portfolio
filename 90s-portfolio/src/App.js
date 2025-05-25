@@ -24,10 +24,7 @@ function App() {
       <div className="section">
         <h2>{t('about')}</h2>
         <p>
-          Hello! I'm Felipe Estuardo Pasache Rivas, a passionate developer with expertise in various technologies.
-          I enjoy building robust backend systems and engaging frontend experiences.
-          
-          (You can expand this "About Me" section with more details about your experience, philosophy, etc.)
+        {t('aboutDetail')}
         </p>
         {/* <img src={underConstructionGif} alt="Under Construction" className="under-construction" /> */}
       </div>
@@ -59,7 +56,7 @@ function App() {
 
       <footer style={{ marginTop: '30px', textAlign: 'center', fontSize: '0.8em', color: '#a0a0a0' }}>
         <p>© 2025 Felipe Estuardo Pasache Rivas. All rights reserved.</p>
-        <p>Built with React in the 90s style.</p>
+        <p>Built with React.</p>
       </footer>
     </div>
   );
