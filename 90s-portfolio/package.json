@@ -1,8 +1,8 @@
 {
-  "name": "90s-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fpasache01.github.io/portfolio/90s-portfolio",
+  "homepage": "https://fpasache01.github.io/portfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
