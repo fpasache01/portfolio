@@ -26,6 +26,7 @@ function App() {
         <p>
           Hello! I'm Felipe Estuardo Pasache Rivas, a passionate developer with expertise in various technologies.
           I enjoy building robust backend systems and engaging frontend experiences.
+          
           (You can expand this "About Me" section with more details about your experience, philosophy, etc.)
         </p>
         {/* <img src={underConstructionGif} alt="Under Construction" className="under-construction" /> */}
