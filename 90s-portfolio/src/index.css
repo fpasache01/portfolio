@@ -1,0 +1,141 @@
+/* Global 90s Reset */
+body {
+  font-family: 'Press Start 2P', monospace; /* A classic pixel font, or just monospace */
+  background-color: #008080; /* Teal/cyan */
+  color: #c0c0c0; /* Light grey text */
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Fallback fonts for wide compatibility */
+body {
+    font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Press Start 2P', cursive; /* More pixelated for headings */
+  color: #ffffff; /* White headings */
+  text-shadow: 2px 2px #000000; /* Simple shadow */
+  margin-bottom: 15px;
+}
+
+/* Scrollbar styling (for Webkit browsers) */
+::-webkit-scrollbar {
+  width: 15px;
+  height: 15px;
+}
+
+::-webkit-scrollbar-track {
+  background: #c0c0c0; /* Light grey track */
+  border: 1px solid #000;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #808080; /* Darker grey thumb */
+  border: 2px outset #ffffff; /* 3D effect */
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: #606060; /* Even darker on active */
+  border: 2px inset #ffffff;
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+}
+
+
+a {
+  color: #00ffff; /* Bright cyan links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #00ff00; /* Green on hover */
+}
+
+button {
+  background-color: #c0c0c0; /* Light grey button */
+  border: 2px outset #ffffff; /* 3D effect */
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+  padding: 8px 15px;
+  cursor: pointer;
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.8em;
+  color: #000000;
+  margin-right: 10px;
+}
+
+button:active {
+  border: 2px inset #ffffff; /* Pressed effect */
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+  background-color: #a0a0a0; /* Darker grey when pressed */
+}
+
+/* General container styling */
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #808080; /* Dark grey panel */
+  border: 2px outset #ffffff;
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+  padding: 25px;
+  box-shadow: 5px 5px 0px #000000; /* Subtle shadow */
+}
+
+.section {
+  border: 2px solid #404040;
+  padding: 20px;
+  margin-bottom: 25px;
+  background-color: #606060; /* Slightly lighter grey for sections */
+  box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5); /* Inner shadow */
+}
+
+.header-bar {
+  background-color: #000080; /* Dark blue title bar */
+  color: #ffffff;
+  padding: 5px 10px;
+  font-size: 1.2em;
+  border-bottom: 2px solid #c0c0c0;
+  margin: -25px -25px 20px -25px; /* Adjust to cover padding */
+}
+
+/* Specific elements */
+.contact-info p {
+  margin: 5px 0;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skill-tag {
+  background-color: #008080; /* Teal for skill tags */
+  color: #ffffff;
+  padding: 5px 10px;
+  border: 1px solid #000000;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+
+/* Optional: Under Construction GIF */
+.under-construction {
+  display: block;
+  margin: 20px auto;
+  max-width: 150px;
+  border: 2px dashed #ff0000;
+  padding: 5px;
+}
+
+/* Import a pixel font from Google Fonts (if you want to use it) */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
