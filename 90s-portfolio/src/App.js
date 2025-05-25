@@ -26,7 +26,7 @@ function App() {
         <p>
         {t('aboutDetail')}
         </p>
-         <img src="/Downloads/image.png" alt="Under Construction" className="under-construction" />
+         <img src="https://raw.githubusercontent.com/fpasache01/portfolio/refs/heads/develop/90s-portfolio/src/image.png" alt="Under Construction" className="under-construction" />
       </div>
 
       <div className="section contact-info">
@@ -34,6 +34,7 @@ function App() {
         <p><strong>Phone 1:</strong> {t('phone1')}</p>
         <p><strong>Phone 2:</strong> {t('phone2')}</p>
         <p><strong>Email:</strong> <a href={`mailto:${t('email')}`}>{t('email')}</a></p>
+        <p><strong>LinkedIn:</strong> <a href={t('linkedin')}>{t('linkedin')}</a></p>
       </div>
 
       <div className="section">
@@ -46,6 +47,11 @@ function App() {
             <span key={index} className="skill-tag">{skill}</span>
           ))}
         </div> */}
+      </div>
+
+       <div className="section">
+        <h2>{t('projects')}</h2>
+  
       </div>
 
       <div className="section">
