@@ -26,7 +26,7 @@ function App() {
         <p>
         {t('aboutDetail')}
         </p>
-        {/* <img src={underConstructionGif} alt="Under Construction" className="under-construction" /> */}
+         <img src="/Downloads/image.png" alt="Under Construction" className="under-construction" />
       </div>
 
       <div className="section contact-info">
