@@ -49,10 +49,6 @@ function App() {
         </div> */}
       </div>
 
-       <div className="section">
-        <h2>{t('projects')}</h2>
-  
-      </div>
 
       <div className="section">
         <h2>{t('projects')}</h2>
