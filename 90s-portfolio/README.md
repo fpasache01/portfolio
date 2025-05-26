@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+Hi there! Welcome to my GitHub Profile README 👋
+This README acts as a dynamic overview of my professional journey and technical expertise, much like a living portfolio. Here, you'll find insights into my skills, experience, and what drives me in the world of software development.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 About Me
+I'm a Software Developer with over 7 years of hands-on experience in full-stack development, with a strong passion for backend technologies. My toolkit includes robust knowledge in .NET Core/Framework, C#, Java (Spring Boot), Python, VB, SQL Server, and Azure. I pride myself on being adaptable to various architectures and solutions, backed by strong analytical and problem-solving abilities. I also have a proven track record of collaborating with and leading development teams.
 
-## Available Scripts
+Currently, I'm on the lookout for Intermediate Developer positions, particularly those conducted fully in English. I'm actively leveling up my English proficiency (currently B1) through daily practice to ensure seamless communication. I'm in Canada on a working holiday visa for a year, with plans to activate my work permit by July 2025. Right now, I'm a visitor working remotely.
 
-In the project directory, you can run:
+🛠️ Technical Skills
+My technical prowess spans a wide range of technologies:
 
-### `npm start`
+Backend Development
+.NET Core, C#, ASP.NET, VB, Python, Java
+Frontend Development
+Angular 8, React.js, jQuery, WordPress
+Databases
+SQL Server, Oracle, PL/SQL
+Cloud & Tools
+Azure, Git, Docker
+Methodologies
+Agile (Scrum), TDD, SOA, Microservices
+Operating Systems
+Proficient in Linux (server configuration, command-line management, SSH) and Windows Server (application deployment, IIS configuration).
+💼 Professional Experience
+Technical Lead
+Epidata S.A. | Santiago, Chile (Remote)
+July 2024 – Present (Part-Time)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Leading the development of the SAFI Project for the Ministry of Public Works (MOP), focusing on system integration and modernization.
+Developing backend solutions using .NET Core, Python, and Oracle.
+Providing technical guidance and ensuring best practices in software development.
+Implementing optimizations in SQL Oracle for data storage and retrieval, and improving package structures.
+Senior Full Stack Developer
+IT Resources Innovation | Remote
+January 2023 – Present
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Worked as a senior developer in a multinational team for MCS Healthcare (Puerto Rico and Miami), migrating legacy applications built on Java and IBM AS400.
+Building solutions for MCS using Angular 8, .NET Core, SQL Server, Azure, Python, and VB.NET.
+Automating data workflows with SSIS and developing backend systems using SQL Server and Python scripts.
+Developing API integrations and optimizing query performance in SQL Server.
+Senior Full Stack Developer
+Ministry of Economy, Development, and Tourism | Santiago, Chile
+August 2022 – November 2023
 
-### `npm test`
+Developed new functionalities for the government platform SUPER.
+Integrated external systems and improved the user interface using Vue.js, Python, and WordPress.
+Handled backend tasks, including implementing logic in Python and generating database migrations for PostgreSQL.
+Senior Software Developer
+Nubox Chile | Santiago, Chile
+June 2021 – August 2022
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Participated in data migration from Nubox to Odoo using ETL automation tools and databases.
+Migrated data to a new data model created in SQL Server.
+Built and maintained backend services using .NET Core, Python, and VB.NET.
+Semi-Senior Software Developer
+Arkano Software | Santiago, Chile
+September 2020 – April 2021
 
-### `npm run build`
+Implemented TDD practices to minimize development errors.
+Led development tasks for Banco de Chile's COMEX segment.
+Worked extensively with backend technologies such as C#, VB.NET, and SQL Server.
+Software Developer
+SERVIBANCA S.A. | Santiago, Chile
+January 2018 – September 2020
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Participated in the Scotia Image product project for Scotiabank, involving client meetings, requirements gathering, and custom functionality development.
+Improved workflows for Scotiabank using MVC Architecture, VB.NET, SQL Server, and migrated from .NET Framework 2.0 to 4.5.
+Developed Credit Approval Workflow Version 2 for Scotia Image.
+Optimized SQL Server queries to enhance the performance of legacy systems.
+🎓 Education
+Programming Analyst Technician
+INACAP | Santiago, Chile
+2014 – 2017
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Bachelor of Computer Engineering
+AIEP | Santiago, Chile
+2017 – 2019
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🗣️ Languages
+Spanish: Native
+English: B1 Level (Actively studying to improve speaking skills)
